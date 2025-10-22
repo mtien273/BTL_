@@ -73,13 +73,7 @@
 
 
         <!--End Đăng kí -->
-         <!-- Hero Banner -->
-    <section class="hero">
-        <div class="hero-slider">
-            <img src="./img/banner.jpg" alt="Banner Trang Sức Bạc">
-        </div>
-    </section>
-
+       
     <!-- Main Content - Register Form -->
     <main class="dangky-main">
         <div class="container">
@@ -90,6 +84,14 @@
                         <div class="form-group">
                             <label for="fullname">Họ và Tên</label>
                             <input type="text" id="fullname" name="fullname" required placeholder="Nhập họ và tên">
+                        </div>
+                        <div class="form-group">
+                            <label for="SDT"> Số điện thoại</label>
+                            <input type="number" id="phone" name="phone" placeholder="Nhập số điện thoại của bạn" /> 
+                        </div>
+                        <div class="form-group">
+                            <label for="Address" > Địa chỉ </label>
+                            <input type="text" id="address" name="address" placeholder="Nhập địa chỉ của bạn" /> 
                         </div>
                         <div class="form-group">
                             <label for="email">Tên đăng nhập </label>

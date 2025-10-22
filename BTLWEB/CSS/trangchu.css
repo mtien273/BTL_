@@ -220,6 +220,7 @@
     position: relative; /* Để thêm badge */
 }
 
+
     .product-card:hover {
         transform: translateY(-8px); /* Nâng cao hơn khi hover */
         box-shadow: 0 6px 12px rgba(0,0,0,0.15); /* Shadow đậm hơn */
@@ -247,7 +248,12 @@
         color: #007BFF; /* Giữ xanh dương cho giá */
         font-weight: bold;
         font-size: 1.1rem;
-        margin-bottom: 1rem;
+        margin-bottom: 0.4rem;
+    }
+
+    .product-card .btn-secondary {
+        display: inline-block; /* Đảm bảo nút là inline-block */
+        margin-bottom: 0.4rem; /* Thêm margin-bottom 0.4rem để cách lề dưới 0.4rem */
     }
 
     /* Thêm badge "New" cho card đầu tiên (có thể chỉnh cho card khác) */

@@ -38,7 +38,7 @@
                         
                     </div>
 
-                      <a href=GioHang.aspx" class ="user"><i class="fa-solid fa-cart-shopping"></i></a>
+                      <a href="GioHang.aspx" class ="user"><i class="fa-solid fa-cart-shopping"></i></a>
                     <a href="DangNhap.aspx" class ="user"><i class="fa-regular fa-circle-user"></i></a>
 
                   
@@ -77,7 +77,7 @@
                 <div class="hero-text">
                     <h2>Trang Sức Bạc Cao Cấp</h2>
                     <p>Khám phá bộ sưu tập mới nhất</p>
-                    <a href="#" class="btn-primary">Mua Ngay</a>
+         
                 </div>
             </div>
         </section>
@@ -104,7 +104,7 @@
                 <h2>TRANG SỨC BẠC THÀNH LẬP TỪ 2012</h2>
                 <p>-- VÒNG VĨNH CỬU --</p>
                 <p>PERMANENT JEWELRY</p>
-               
+             
             </div>
             <div class="promo2-grid">
                 <img src="./img/promo2_img1.jpg" alt="Sản Phẩm 3" class="promo2-image">
@@ -112,6 +112,33 @@
                 <img src="./img/promo2_img3.png" alt="Sản Phẩm 4" class="promo2-image">
             </div>
         </section>
+                    
+         <!-- Featured Products -->
+ <section class="products-section">
+     <h2>Sản Phẩm Nổi Bật</h2>
+     <div class="products-grid">
+         <div class="product-card">
+             <img src="./img/products-section1.jpg" alt="Nhẫn Bạc">
+             <h3>Nhẫn Bạc Đính Đá</h3>
+             <p class="price">500.000 VNĐ</p>
+             <a href="#" class="btn-secondary">Xem Chi Tiết</a>
+         </div>
+         <div class="product-card">
+             <img src="./img/products-section2.jpg" alt="Vòng Cổ Bạc">
+             <h3>Vòng Cổ Bạc Mảnh</h3>
+             <p class="price">800.000 VNĐ</p>
+             <a href="#" class="btn-secondary">Xem Chi Tiết</a>
+         </div>
+         <div class="product-card">
+             <img src="./img/products-section3.jpg" alt="Khuyên Tai Bạc">
+             <h3>Khuyên Tai Bạc</h3>
+             <p class="price">300.000 VNĐ</p>
+             <a href="#" class="btn-secondary">Xem Chi Tiết</a>
+         </div>
+     </div>
+ </section>
+
+           
 
         <!-- Promo Images Reverse -->
         <section class="promo-images-reverse">
@@ -133,41 +160,7 @@
                     <img src="./img/banner2.png" alt="Banner Quảng Cáo">
                  </div>
             </section>
-            <!-- Featured Products -->
-            <section class="products-section">
-                <h2>Sản Phẩm Nổi Bật</h2>
-                <div class="products-grid">
-                    <div class="product-card">
-                        <img src="./img/products-section1.jpg" alt="Nhẫn Bạc">
-                        <h3>Nhẫn Bạc Đính Đá</h3>
-                        <p class="price">500.000 VNĐ</p>
-                        <a href="#" class="btn-secondary">Xem Chi Tiết</a>
-                    </div>
-                    <div class="product-card">
-                        <img src="./img/products-section2.jpg" alt="Vòng Cổ Bạc">
-                        <h3>Vòng Cổ Bạc Mảnh</h3>
-                        <p class="price">800.000 VNĐ</p>
-                        <a href="#" class="btn-secondary">Xem Chi Tiết</a>
-                    </div>
-                    <div class="product-card">
-                        <img src="./img/products-section3.jpg" alt="Khuyên Tai Bạc">
-                        <h3>Khuyên Tai Bạc</h3>
-                        <p class="price">300.000 VNĐ</p>
-                        <a href="#" class="btn-secondary">Xem Chi Tiết</a>
-                    </div>
-                </div>
-            </section>
-
-            <!-- Categories -->
-            <section class="categories">
-                <h2>Danh Mục</h2>
-                <div class="categories-grid">
-                    <a href="#" class="category-item">Nhẫn</a>
-                    <a href="#" class="category-item">Vòng Tay</a>
-                    <a href="#" class="category-item">Vòng Cổ</a>
-                    <a href="#" class="category-item">Khuyên Tai</a>
-                </div>
-            </section>
+           
 
             <!-- Feedback Section -->
             <section class="feedback-section">
@@ -176,8 +169,8 @@
                     <div class="feedback-card">
                         <img src="./img/avatar1.png" alt="Avatar Nguyễn Anh Thư" class="feedback-avatar">
                         <div class="feedback-content">
-                            <h3>Bình Thỏ</h3>
-                            <p>
+                            <h3>Bình Hà</h3>
+                            <p> Sản phẩm rất hợp gu, thiết kế đẹp 
                             </p>
                         </div>
                     </div>
@@ -192,7 +185,7 @@
                         <img src="img/avatar3.jpg" alt="Avatar Lê Thị Hồng" class="feedback-avatar">
                         <div class="feedback-content">
                             <h3>Lê Thị Hồng</h3>
-                            <p>Vòng cổ đẹp, đúng như hình. Sẽ tiếp tục ủng hộ KAT Jewelry
+                            <p>Vòng cổ đẹp, đúng như hình. Sẽ tiếp tục ủng hộ Moji Jewelry
                                 </p>
                         </div>
                     </div>
