@@ -63,17 +63,6 @@
         </header>
         <!-- End Header -->
 
-        <!-- Banner -->
-        <section class="hero">
-            <div class="hero-slider">
-                <img src="./img/banner.jpg" alt="Banner Trang Sức Bạc" />
-                <div class="hero-text">
-                    <h2>Liên Hệ Với Chúng Tôi</h2>
-                    <p>Chúng tôi luôn sẵn sàng lắng nghe bạn</p>
-                </div>
-            </div>
-        </section>
-
         <!-- LIÊN HỆ -->
         <div class="contact-container container">
             <div class="contact-left">
