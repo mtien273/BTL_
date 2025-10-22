@@ -114,9 +114,7 @@
                 <div class="footer-column right">
                     <h3>Hà Nội</h3>
                     <ul>
-                        <li>91 Định Công, Hoàng Mai, Hà Nội</li>
-                        <li>92 Định Công, Hoàng Mai, Hà Nội</li>
-                        <li>93 Định Công, Hoàng Mai, Hà Nội</li>
+
                         <li>94 Định Công, Hoàng Mai, Hà Nội</li>
                         <li>95 Định Công, Hoàng Mai, Hà Nội</li>
                         <li>96 Định Công, Hoàng Mai, Hà Nội</li>

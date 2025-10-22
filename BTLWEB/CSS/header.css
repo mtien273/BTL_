@@ -4,10 +4,10 @@
     top: 0;
     left: 0;
     width: 100%;
-    background-color: #fff; 
+    background-color: #fff;
     z-index: 9999;
     margin-bottom: 10px;
-    
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
 }
 .header .inner-wrap {
     display: flex;
