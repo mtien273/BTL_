@@ -104,7 +104,7 @@
                 <h2>TRANG SỨC BẠC THÀNH LẬP TỪ 2012</h2>
                 <p>-- VÒNG VĨNH CỬU --</p>
                 <p>PERMANENT JEWELRY</p>
-                <a href="#" class="btn-promo2">"CLICK" ĐỂ XEM CHI TIẾT</a>
+               
             </div>
             <div class="promo2-grid">
                 <img src="./img/promo2_img1.jpg" alt="Sản Phẩm 3" class="promo2-image">
