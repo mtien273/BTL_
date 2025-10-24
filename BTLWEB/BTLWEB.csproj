@@ -119,6 +119,7 @@
     <Content Include="CSS\header.css" />
     <Content Include="CSS\reset.css" />
     <Content Include="CSS\trangchu.css" />
+    <Content Include="JS\Header.js" />
     <Content Include="LienHe.aspx" />
     <Content Include="NhanBac.aspx" />
     <Content Include="ThanhToan.aspx" />
@@ -231,9 +232,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="JS\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
