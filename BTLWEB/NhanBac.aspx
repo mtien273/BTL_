@@ -5,6 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="CSS/reset.css" rel="stylesheet" />
     <link href="CSS/base.css" rel="stylesheet" />
     <link href="CSS/header.css" rel="stylesheet" />
@@ -45,6 +46,9 @@
             </div>
         </div>
     </div>
+     <button type="button" id="menu-toggle-btn" class="menu-toggle-btn">
+     <i class="fa-solid fa-bars-staggered"></i>
+ </button>
     <div class="inner-menu">
         <div class="container">
             <ul>
@@ -206,5 +210,6 @@
     </footer>
     <!--End Footer -->
     </form>
+ <script src="JS/Header.js"></script>
 </body>
 </html>

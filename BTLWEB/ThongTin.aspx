@@ -5,12 +5,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="css\reset.css" rel="stylesheet" />
     <link href="css\base.css" rel="stylesheet" />
-   <link href="css\header.css" rel="stylesheet" />
     <link href="CSS\ThongTin.css" rel="stylesheet" />
    <link href="css\footer.css" rel="stylesheet" />
    <link rel="stylesheet" href="Vendor/css/all.min.css" />
+    <link href="css\header.css" rel="stylesheet" />
 </head>
 <body>
     <form id="form1" runat="server">
@@ -45,6 +46,9 @@
             </div>
         </div>
     </div>
+     <button type="button" id="menu-toggle-btn" class="menu-toggle-btn">
+     <i class="fa-solid fa-bars-staggered"></i>
+ </button>
     <div class="inner-menu">
         <div class="container">
             <ul>
@@ -142,5 +146,6 @@
     <!--End Footer -->
 
     </form>
+ <script src="JS/Header.js"></script>
 </body>
 </html>
