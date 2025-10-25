@@ -5,13 +5,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>Web trang sức</title>
- 
     <link href="css\base.css" rel="stylesheet" />
     <link href="css\reset.css" rel="stylesheet" />
+    <link href="css\header.css" rel="stylesheet" />
     <link href="css\trangchu.css" rel="stylesheet" />
     <link href="css\footer.css" rel="stylesheet" />
     <link rel="stylesheet" href="Vendor/css/all.min.css" />
-     <link href="css\header.css" rel="stylesheet" />
     
 </head>
 <body>
@@ -47,12 +46,8 @@
                 </div>
             </div>
         </div>
-        <button type="button" id="menu-toggle-btn" class="menu-toggle-btn">
-            <i class="fa-solid fa-bars-staggered"></i>
-        </button>
-    <div class ="container">
-                <div class="inner-menu" id="main-menu">
-          
+        <div class="inner-menu">
+            <div class="container">
                 <ul>
                     <li>
                         <a href="TrangChu.aspx">TRANG CHỦ</a>
@@ -70,9 +65,8 @@
                         <a href="lienhe.aspx">LIÊN HỆ</a>
                     </li>
                 </ul>
-            
+            </div>
         </div>
-    </div>
     </header>
     <!-- End header -->
 
@@ -247,6 +241,5 @@
     </footer>
     <!--End Footer -->
     </form>
-    <script src="JS/Header.js"></script>
 </body>
 </html>
