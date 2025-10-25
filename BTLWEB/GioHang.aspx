@@ -69,13 +69,7 @@
 </header>
 <!-- End header -->
  <!-- Main -->
-         <!-- Hero Banner -->
-    <section class="hero">
-      <div class="hero-slider">
-        <img src="./img/banner.jpg" alt="Banner Trang Sức Bạc" />
-      
-      </div>
-    </section>
+
 
     <!-- Container chung cho tất cả nội dung trừ header -->
     <div class="container">
