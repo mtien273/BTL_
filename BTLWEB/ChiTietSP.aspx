@@ -71,13 +71,7 @@
 <!-- End header -->
 
  <!-- Main -->
-         <!-- Hero Banner -->
-    <section class="hero">
-      <div class="hero-slider">
-        <img src="./img/ChiTietSP/banner.jpg" alt="Banner Trang Sức Bạc" />
-      
-      </div>
-    </section>
+
 
      <div class="container">
       <!-- Product Detail Section -->

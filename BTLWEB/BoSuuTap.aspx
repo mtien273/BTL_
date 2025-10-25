@@ -71,14 +71,6 @@
 
 <!--Main -->
 
-          <!-- Hero Banner -->
-     <section class="hero">
-         <div class="hero-slider">
-             <img src="./img/banner.jpg" alt="Banner Trang Sức Bạc">
-            
-         </div>
-     </section>
-
     <div class="container">
         
         <h1 class="page-title">Bộ sưu tập</h1>
