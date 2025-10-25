@@ -5,8 +5,6 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
-
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="CSS/reset.css" rel="stylesheet" />
     <link href="CSS/base.css" rel="stylesheet" />
     <link href="CSS/header.css" rel="stylesheet" />
@@ -47,9 +45,6 @@
             </div>
         </div>
     </div>
-     <button type="button" id="menu-toggle-btn" class="menu-toggle-btn">
-     <i class="fa-solid fa-bars-staggered"></i>
- </button>
     <div class="inner-menu">
         <div class="container">
             <ul>
@@ -97,12 +92,21 @@
           </div>
           <div class="product-info">
             <h2>N BIG CIRCLE GEM LAUREL</h2>
-            <p class="status">
-              Tình trạng:
-              <span class="red-text">Liên hệ Facebook để check số lượng</span> |
-              Mã Sp.
-            </p>
-            <p class="product-update">Thông tin sản phẩm đang được cập nhật.</p>
+              <!-- Thông tin chi tiết sản phẩm -->
+                <div class="product-description">
+                  <h3>Chi tiết sản phẩm</h3>
+                  <ul>
+                    <li><strong>Chất liệu:</strong> Bạc 925 cao cấp, không đen, không dị ứng.</li>
+                    <li><strong>Kích thước mặt:</strong> 1.8 cm</li>
+                    <li><strong>Chiều dài dây:</strong> 45 cm (có thể điều chỉnh)</li>
+                    <li><strong>Xuất xứ:</strong> Việt Nam</li>
+                  </ul>
+                  <p>
+                    (Sản phẩm được gia công tỉ mỉ, mang lại vẻ đẹp tinh tế và hiện đại.
+                    Được bảo hành 6 tháng và nhận đánh bóng miễn phí 1 lần tại hệ thống cửa hàng.)
+                  </p>
+                </div>
+
             <p class="price">590.000đ</p>
             <div class="quantity-selector">
               Số lượng:
@@ -208,6 +212,5 @@
 
         
     </form>
- <script src="JS/Header.js"></script>
 </body>
 </html>

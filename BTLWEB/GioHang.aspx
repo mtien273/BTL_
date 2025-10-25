@@ -5,7 +5,6 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="CSS/reset.css" rel="stylesheet" />
     <link href="CSS/base.css" rel="stylesheet" />
     <link href="CSS/header.css" rel="stylesheet" />
@@ -46,9 +45,6 @@
             </div>
         </div>
     </div>
-     <button type="button" id="menu-toggle-btn" class="menu-toggle-btn">
-     <i class="fa-solid fa-bars-staggered"></i>
- </button>
     <div class="inner-menu">
         <div class="container">
             <ul>
@@ -94,7 +90,7 @@
             <tr>
               <td>
                 <img
-                  src="./img/ring1.jpg"
+                  src="./img/promo_img2.png"
                   alt="Nhẫn Vàng"
                   class="product-img"
                 />
@@ -114,7 +110,7 @@
             </tr>
             <tr>
               <td>
-                <img src="./img/ring2.jpg" alt="Nhẫn Bạc" class="product-img" />
+                <img src="./img/promo_img3.jpg" alt="Nhẫn Bạc" class="product-img" />
               </td>
               <td>VWR0313BARM.WG06A</td>
               <td>
@@ -139,7 +135,6 @@
           </tfoot>
         </table>
         <div class="cart-actions">
-          <button class="update-btn">Cập nhật giỏ hàng</button>
           <button class="order-btn"><a style="color:#fff" href="ThanhToan.aspx">Đặt hàng</a></button>
         </div>
       </section>
@@ -196,6 +191,10 @@
     <!--End Footer -->
 
         
+    </form>
+</body>
+</html>
+
     </form>
  <script src="JS/Header.js"></script>
 </body>
